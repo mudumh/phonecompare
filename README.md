@@ -6,3 +6,4 @@ Essentially A CSS3 experiment.  A site that lists the specifications of the top 
 TODO:
 
 Improve the header and list styling.
+Add more Phones.
